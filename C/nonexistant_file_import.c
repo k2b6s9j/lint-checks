@@ -1,4 +1,4 @@
-// This is a comment, this will not be linted.
+// This is a comment, this will not return any errors.
 #import "nothing.h"
 
 int main(int argc, char const *argv[]) {
