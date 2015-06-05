@@ -1,5 +1,3 @@
-let x: String = 42
-
 func swiftLintTest() {
   let someForceCast = NSNumber() as! Int
   let colonOnWrongSide :Int = 0
