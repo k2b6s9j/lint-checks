@@ -1,1 +1,1 @@
-require "./required_with_an_error"
+require "./variable_type_already_defined"
