@@ -1,0 +1,2 @@
+module ThisFileIsNamedInCamelCase
+end
